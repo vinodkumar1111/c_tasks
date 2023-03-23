@@ -1,3 +1,6 @@
+
+// this is the code used to add the two static arrays in c
+
 #include <stdio.h>
 void sum_array(int array1[], int sum[], int len1, int array2[], int len2)
 {
